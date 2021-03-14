@@ -25,3 +25,10 @@ debug模式打开，能查看中间输出的内容
 ```
 
 test-dogedoge 下是测试命令
+
+Provide interface and data support for the website【Basic】
+-------------------------------------------------------------
+Extremely optimized running speed and performance tuning【Core】
+-------------------------------------------------------------
+Decentralized open WEB3 game API support【Expanded】
+-------------------------------------------------------------
