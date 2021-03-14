@@ -1,4 +1,4 @@
-# dogedoge
+# SubGat-Game-Web-Back-end-Server-Frame
 
 [![Build Status](https://travis-ci.org/DaviRain-Su/dogedoge.svg?branch=main)](https://travis-ci.org/DaviRain-Su/dogedoge)
 
@@ -23,3 +23,5 @@ debug模式打开，能查看中间输出的内容
 ```shell
     cargo run
 ```
+
+test-dogedoge 下是测试命令
